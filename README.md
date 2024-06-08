@@ -52,7 +52,7 @@ Seeking a PHP Developer position where I can utilize my skills in coding and pro
 - **Intern and Junior Laravel Developer**
   - Company: Turantcall Pvt Ltd
   - Duration: November2023 - Present
-  # Responsibility
+  # Responsibilities
     •	Fixed critical issues on site
     •	Deployed new testing site
     •	Collaborated with team members  to make the site better
