@@ -5,11 +5,11 @@
 ## Contact Information
 Phone: 9867883929 | Email: bipinpaudel6774@gmail.com
 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/bpnpdl/) | GitHub: [GitHub Profile](https://github.com/bpnpdl1)
-Address: Ratnanagar-9, Chitwan
+Permanent Address: Ratnanagar-9, Chitwan
+Temporary Address: Tinkune, Kathmandu
 
 ## Objective
-I am a motivated BCA student with a passion for web development and software engineering. Proficient in HTML, CSS, JavaScript, PHP, and modern web technologies, I aim to create dynamic and responsive web applications. With expertise in Git, MySQL, Laravel, and Chart.js, I am well-equipped to develop robust, data-driven solutions. I'm committed to problem-solving and eager to contribute to innovative projects while continuously expanding my knowledge in computer science.
-
+Seeking a PHP Developer position where I can utilize my skills in coding and problem-solving to contribute effectively to the development of dynamic web applications.
 
 ## Education
 - BCA, Lumbini ICT Campus, Gaidakot, Nepal (Final Year Running)
@@ -49,11 +49,13 @@ I am a motivated BCA student with a passion for web development and software eng
    
 
 ##  Work Experience
-- **Attendance System Software Setup Helper**
-  - Company: Perfect Active Solutions Pvt Ltd
-  - Duration: 2 days
-  - Installed attendance system software for Bharatpur Metropolitan City across 40 machines.
-
+- **Intern and Junior Laravel Developer**
+  - Company: Turantcall Pvt Ltd
+  - Duration: November2023 - Present
+  # Responsibility
+    •	Fixed critical issues on site
+    •	Deployed new testing site
+    •	Collaborated with team members  to make the site better
 
 ## Languages
 - Nepali
@@ -72,7 +74,4 @@ I am a motivated BCA student with a passion for web development and software eng
    - Co-Founder/Managing Director, Bitmap IT Solutions Pvt Ltd
    - Contact: 9855011559
 
-2. **Ramesh Joshi**
-   - Manager, Perfect IT Solutions Pvt Ltd
-   - Contact: 9803599844
 
