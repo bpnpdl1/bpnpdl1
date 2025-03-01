@@ -1,77 +1,69 @@
-# Bipin Paudel
+**Bipin Paudel**\
+**Laravel Developer**\
+New Baneshwor, Kathmandu | 9867883929 | [bipinpaudel6774@gmail.com](mailto\:bipinpaudel6774@gmail.com)
 
+---
 
+### **Objective**
 
-## Contact Information
-Phone: 9867883929 | Email: bipinpaudel6774@gmail.com
-LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/bpnpdl/) | GitHub: [GitHub Profile](https://github.com/bpnpdl1)
-Permanent Address: Ratnanagar-9, Chitwan
-Temporary Address: Tinkune, Kathmandu
+Laravel Developer with expertise in **backend development, database management, and problem-solving**. Experienced in building scalable applications using **Laravel, MySQL/PostgreSQL, and modern web technologies**.
 
-## Objective
-Seeking a PHP Developer position where I can utilize my skills in coding and problem-solving to contribute effectively to the development of dynamic web applications.
+---
 
-## Education
-- BCA, Lumbini ICT Campus, Gaidakot, Nepal (Final Year Running)
+### **Experience**
 
+#### **RayzenTech | Backend Developer** (Sep 2024 - Present)
 
-## Skills
+- Developed **backend panels** to automate processes and enhance system efficiency.
+- Implemented **API services, authentication, and database queries**.
+- Utilized **Git and SSH** for version control and deployment.
 
-| Technical Skills                | Non-Technical Skills   |
-|---------------------------------|------------------------|
-| HTML/CSS/JS                     | Team Player            |
-| PHP                             | Good Communication     |
-| Bootstrap                       | Problem Solving         |
-| Tailwind CSS                    | Critical Thinking       |
-| MySQL                           | Presentation            |
-| Git/GitHub                      | Networking              |
-| Laravel                         |                        |
-| Livewire                        |                        |
-| Chart.js                        |                        |
+#### **Turantcall | Intern & Junior Laravel Developer** (Nov 2023 - Sep 2024)
 
-## Projects
+- Fixed **critical issues** and optimized Laravel applications.
+- Developed **new features** and improved system performance.
+- Gained experience in **Laravel 8/9, MySQL, and debugging**.
 
-1. **Online Bike Rental System**
-   - Developed a Web-Based Application with Admin and Renter modules.
-   - Technologies: HTML, CSS, JavaScript, PHP, MySQL, Bootstrap, Tailwind CSS, Laravel
-   - GitHub: [PHP](https://github.com/bpnpdl1/OBRS_PHP), [Laravel](https://github.com/bpnpdl1/OBRS_LARAVEL)
+---
 
-2. **Bus Ticketing System**
-   - Created a web-based system for booking bus seats and generating tickets.
-   - Technologies: HTML, CSS, JavaScript, PHP, Bootstrap, MySQL
-   - GitHub: [GitHub](https://github.com/bpnpdl1/bts)
-   - Website: [Bus Ticketing System](http://bts.infinityfreeapp.com/)
+### **Projects**
 
-3. **Employee Management System**
-   - Designed a web-based system for managing employees, roles, permissions, and attendance.
-   - Technologies: HTML, CSS, JavaScript, PHP, MySQL, Bootstrap, Tailwind CSS, Laravel
-   - GitHub: [GitHub](https://github.com/bpnpdl1/EMS_LARAVEL)
-   
+- **Gurkha Shipping Line** – Logistics management system with **shipment tracking**.
+- **Montessori Website** – Built using **Livewire** for dynamic content.
+- **Hazime Nepal Website** – A consultancy platform using **Laravel and PostgreSQL**.
+- **Accounting System** – Financial tracking tool with **Filament PHP**.
+- **Real Estate Backend** – Property listing and user management system.
+- **Project Management System** – Task tracking and sprint-based workflow.
+- **Homestay Booking System** – Reservation system with **payment integration**.
 
-##  Work Experience
-- **Intern and Junior Laravel Developer**
-  - Company: Turantcall Pvt Ltd
-  - Duration: November2023 - Present
-  # Responsibilities
-    •	Fixed critical issues on site
-    •	Deployed new testing site
-    •	Collaborated with team members  to make the site better
+---
 
-## Languages
-- Nepali
-- English
-- Hindi
+### **Education**
 
+**Lumbini ICT Campus** (2019-2024)\
+**BCA - Bachelor in Computer Application** | Tribhuvan University
 
-## Interests
-- Reading
-- YouTube Videos
-- Traveling
-- Drawing
+---
 
-## References
-1. **Sudip Parajuli**
-   - Co-Founder/Managing Director, Bitmap IT Solutions Pvt Ltd
-   - Contact: 9855011559
+### **Skills & Abilities**
+
+#### **Technical Skills**
+
+- **Languages:** PHP, JavaScript, HTML/CSS
+- **Frameworks:** Laravel, Livewire, Filament PHP, Bootstrap, TailwindCSS
+- **Database:** MySQL, PostgreSQL, SQL Joins
+- **Version Control & Deployment:** Git, GitHub, SSH
+- **Server & Tools:** Linux, Nginx, Apache
+- **Software Development:** REST API, MVC, Agile
+
+#### **Non-Technical Skills**
+
+- **Problem-solving & Critical Thinking**
+- **Effective Communication & Collaboration**
+- **Adaptability & Quick Learning**
+
+---
+
+**Portfolio | LinkedIn | GitHub**
 
 
