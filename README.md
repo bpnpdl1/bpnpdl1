@@ -30,11 +30,11 @@ Laravel Developer with expertise in **backend development, database management, 
 
 - **Gurkha Shipping Line** – Logistics management system with **shipment tracking**.
 - **Montessori Website** – Built using **Livewire** for dynamic content.
-- **Hazime Nepal Website** – A consultancy platform using **Laravel and PostgreSQL**.
+- **Hazime Nepal Website** – A consultancy website with cms .
 - **Accounting System** – Financial tracking tool with **Filament PHP**.
 - **Real Estate Backend** – Property listing and user management system.
 - **Project Management System** – Task tracking and sprint-based workflow.
-- **Homestay Booking System** – Reservation system with **payment integration**.
+- **Homestay Booking System** – Reservation system with to manage Homestays.
 
 ---
 
