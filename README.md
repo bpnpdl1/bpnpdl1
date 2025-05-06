@@ -22,7 +22,7 @@ Laravel Developer with expertise in **backend development, database management, 
 
 - Fixed **critical issues** and optimized Laravel applications.
 - Developed **new features** and improved system performance.
-- Gained experience in **Laravel 8/9, MySQL, and debugging**.
+- Gained experience in **Laravel 10, MySQL, and debugging**.
 
 ---
 
