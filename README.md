@@ -12,13 +12,13 @@ Laravel Developer with expertise in **backend development, database management, 
 
 ### **Experience**
 
-#### **RayzenTech | Backend Developer** (Sep 2024 - Present)
+#### **RayzenTech | Backend Developer** (Sep 2024 - Jun 2025)
 
 - Developed **backend panels** to automate processes and enhance system efficiency.
 - Implemented **API services, authentication, and database queries**.
 - Utilized **Git and SSH** for version control and deployment.
 
-#### **Turantcall | Intern & Junior Laravel Developer** (Nov 2023 - Sep 2024)
+#### **Turantcall | Intern & Junior Laravel Developer** (Aug 2023 - Sep 2024)
 
 - Fixed **critical issues** and optimized Laravel applications.
 - Developed **new features** and improved system performance.
